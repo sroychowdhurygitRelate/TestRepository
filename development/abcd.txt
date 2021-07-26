@@ -1,1 +1,2 @@
 Working with git commands. 
+After staging the file again we made changes in the file. So it will be seen unstaged.

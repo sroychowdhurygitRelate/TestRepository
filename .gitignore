@@ -1,0 +1,5 @@
+.vs/*
+TestConsoleProject/bin/Debug/*
+TestConsoleProject/obj/Debug/*
+UnitTestProjectfort/bin/Debug/*
+UnitTestProjectfort/obj/Debug/*
