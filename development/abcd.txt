@@ -2,3 +2,5 @@ Working with git commands.
 After staging the file again we made changes in the file. So it will be seen unstaged.
 
 -> we made some changes after moving to branch 'Branch-one'. So, the content of this file is different now from the master branch.
+
+We are changing content in both the Branch and let see how it conflicts. change in master Branch.
