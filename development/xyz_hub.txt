@@ -1,0 +1,3 @@
+Distributed version of Control: 
+
+In a distributed system, you get a repository of your own when you clone the project. This means you can work and add code to the repo even when offline, since the repository lives on your computer. But this also means you need a bit of discipline in keeping in sync with the rest of development, since your repository is separate from the others.
